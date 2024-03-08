@@ -4,7 +4,7 @@ Student: Evan Kirkiles
 
 Advisor: Scott Petersen
 
-FOR SCOTT 3/8/2024: My current working draft of my writeup can be found as 4. CPSC490 – Evan Kirkiles Midway Draft
+FOR SCOTT 3/8/2024: My current working draft of my writeup can be found as [4. CPSC490 – Evan Kirkiles Midway Draft](https://github.com/evankirkiles/cs490/blob/main/files/4.%20CPSC490%20–%20Evan%20Kirkiles%20Midterm%20Report.pdf)
 
 This repo hosts my (admittedly disorganized, for now) senior project work. Most importantly:
 

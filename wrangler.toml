@@ -1,0 +1,6 @@
+name = "aai-website"
+compatibility_date = "2023-07-17"
+compatibility_flags = [ "nodejs_compat" ]
+r2_buckets = [
+  { binding = "R2", bucket_name = "R2" }
+]
